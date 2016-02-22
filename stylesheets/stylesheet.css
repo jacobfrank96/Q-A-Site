@@ -77,24 +77,3 @@ footer {
     font-size: 13px;
     color: #ccc;
 }
-
-
-/*Tables*/
-table {
-    width: 100%;
-}
-
-table tr th {
-  border-bottom: 1px solid #999;
-}
-
-/*modal*/
-.modal {
-    max-width: 800px;
-    min-width: 300px;
-    width: auto;
-}
-
-.modal img {
-  width: 100%;
-}
